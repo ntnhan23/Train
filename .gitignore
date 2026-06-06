@@ -1,0 +1,10 @@
+# Ignore everything except C++ source files.
+**
+!*/
+!*.cpp
+!**/*.cpp
+!.gitignore
+
+# Never keep VS Code workspace settings.
+.vscode/
+.vscode/**
